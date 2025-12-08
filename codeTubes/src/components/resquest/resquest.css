@@ -1,0 +1,12 @@
+.erroCursos {
+  text-align: center;
+  color: red;
+}
+
+.erroCursos svg {
+  display: block;
+  margin: auto;
+  width: 70px;
+  fill: red;
+  padding: 20px;
+}

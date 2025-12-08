@@ -1,0 +1,73 @@
+#cursos {
+  max-width: 1000px;
+  width: 90%;
+  margin: 80px auto;
+}
+
+.listaCursos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.cursoCard {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.cursoCard a {
+  text-decoration: none;
+}
+
+.cursoCard img {
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+  height: auto;
+  object-fit: none;
+  object-position: left;
+}
+
+.cursoCard .descriptionCards {
+  width: 260px;
+
+  background-color: #212227a1;
+  padding: 20px;
+  border-radius: 0 0 20px 20px;
+}
+
+.cursoCard .descriptionCards .authorCurso {
+  color: var(--cor-textApagado);
+}
+
+.cursoCard .descriptionCards div {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.cursoCard .descriptionCards div .categoria {
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 19px;
+  background: #212045;
+  color: #7f7de3;
+}
+
+.cursoCard .descriptionCards div .nota {
+  margin-top: 19px;
+}
+
+.cursoCard .descriptionCards div .nota svg {
+  fill: yellow;
+}
+
+@media screen and (max-width: 1000px) {
+  .titleContainerCurso {
+    text-align: center;
+  }
+
+  .listaCursos {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,18 @@
+:root {
+  --cor-page: #0d0f17;
+  --cor-textApagado: #a1a7b0;
+  --cor-principal: #4047eb;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: var(--cor-page);
+}

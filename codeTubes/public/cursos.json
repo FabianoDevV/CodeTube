@@ -1,0 +1,105 @@
+[
+  {
+    "titulo": "HTML5 e CSS3 Completo",
+    "canal": "Curso em Vídeo",
+    "categoria": "Front-end",
+    "nivel": "Iniciante",
+    "nota": 9.8,
+    "descricao": "Curso completo para aprender HTML5 e CSS3 do zero.",
+    "playlist": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o",
+    "thumbnail": "https://i.ytimg.com/vi/epDCjksKMok/hqdefault.jpg"
+  },
+  {
+    "titulo": "JavaScript Completo",
+    "canal": "Curso em Vídeo",
+    "categoria": "Front-end",
+    "nivel": "Iniciante",
+    "nota": 9.7,
+    "descricao": "Aprenda JavaScript moderno com explicações simples e práticas.",
+    "playlist": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+    "thumbnail": "https://i.ytimg.com/vi/BXqUH86F-kA/hqdefault.jpg"
+  },
+  {
+    "titulo": "React para Iniciantes",
+    "canal": "Matheus Battisti - Hora de Codar",
+    "categoria": "Front-end",
+    "nivel": "Intermediário",
+    "nota": 9.5,
+    "descricao": "Curso prático de React com hooks, estado, componentes e projetos.",
+    "playlist": "https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2Fj6I8pZ8s3x6tSyIkz4s",
+    "thumbnail": "https://i.ytimg.com/vi/sBws8MSXN7A/hqdefault.jpg"
+  },
+
+  {
+    "titulo": "Python para Iniciantes",
+    "canal": "Curso em Vídeo",
+    "categoria": "Back-end",
+    "nivel": "Iniciante",
+    "nota": 9.9,
+    "descricao": "Curso completo e estruturado para aprender Python do zero.",
+    "playlist": "https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye",
+    "thumbnail": "https://i.ytimg.com/vi/S9uPNppGsGo/hqdefault.jpg"
+  },
+  {
+    "titulo": "Node.js do Zero",
+    "canal": "Rocketseat",
+    "categoria": "Back-end",
+    "nivel": "Intermediário",
+    "nota": 9.6,
+    "descricao": "Curso ensinando Node.js com APIs, rotas e fundamentos.",
+    "playlist": "https://www.youtube.com/playlist?list=PL85ITvJ7FLohG8C0wsYc5u0c4j3FDY7cJ",
+    "thumbnail": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg"
+  },
+  {
+    "titulo": "SQL Completo",
+    "canal": "Boson Treinamentos",
+    "categoria": "Banco de Dados",
+    "nivel": "Iniciante",
+    "nota": 9.7,
+    "descricao": "Curso com tudo sobre SQL, joins, funções e consultas.",
+    "playlist": "https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9N5HTI4Qn9VW_0r",
+    "thumbnail": "https://i.ytimg.com/vi/Ofktsne-utM/hqdefault.jpg"
+  },
+
+  {
+    "titulo": "Git e GitHub",
+    "canal": "Dev Aprender",
+    "categoria": "Ferramentas",
+    "nivel": "Iniciante",
+    "nota": 9.8,
+    "descricao": "Curso prático e popular de versionamento com Git e GitHub.",
+    "playlist": "https://www.youtube.com/playlist?list=PLnDvRpP8Bnexuygero7P-DWlh2k5GAlKx",
+    "thumbnail": "https://i.ytimg.com/vi/xEKo29OWILE/hqdefault.jpg"
+  },
+  {
+    "titulo": "Flutter Completo",
+    "canal": "Flutterando",
+    "categoria": "Mobile",
+    "nivel": "Intermediário",
+    "nota": 9.5,
+    "descricao": "Curso oficial da maior comunidade Flutter do Brasil.",
+    "playlist": "https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB",
+    "thumbnail": "https://i.ytimg.com/vi/fq4N0hgOWzU/hqdefault.jpg"
+  },
+  {
+    "titulo": "Kubernetes para Desenvolvedores",
+    "canal": "LinuxTips",
+    "categoria": "DevOps",
+    "nivel": "Avançado",
+    "nota": 9.8,
+    "descricao": "Curso profissional de Kubernetes, clusters e deploys.",
+    "playlist": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDkI0nJdYBqFCE5rBmGJ7Z2z",
+    "thumbnail": "https://i.ytimg.com/vi/PH-2FfFD2PU/hqdefault.jpg"
+  },
+
+  {
+    "titulo": "Python para Data Science",
+    "canal": "Sigmoidal",
+    "categoria": "IA / Machine Learning",
+    "nivel": "Iniciante",
+    "nota": 9.5,
+    "descricao": "Curso introdutório sobre Python aplicado em análise de dados.",
+    "playlist": "https://www.youtube.com/playlist?list=PL5TJqBvpXQv5G9Y0_GoK2c1kGus0MCuVt",
+    "thumbnail": "https://i.ytimg.com/vi/h0e2HAPTGF4/hqdefault.jpg"
+  }
+]
